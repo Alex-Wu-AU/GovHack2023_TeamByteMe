@@ -2,7 +2,6 @@
 Project repository for GovHack 2023
 
 @chdodge is in
-@andy
 
 The Byte Me Team would like to present the Team's Design for the Data Set in GovHack 2023
 Our Production Features the work of the following collaborators
