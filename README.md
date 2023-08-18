@@ -13,3 +13,6 @@ Our Production Features the work of the following collaborators
 5 - Trill
 
 Our Team developed the following use for the data set give our groups interest in cyber security and protection of data as well as our collective background in computer science and IT.
+
+Chale adding notes from today.
+
