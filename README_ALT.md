@@ -44,7 +44,7 @@ Our tool can be thought of as that nerdy friend or realtive you call and ask 'ma
 Behind the web portal, we use spiders to scrape many types of open data:
 
 - public forums (eg. reddit, facebook, twitter)
-- public facing pages (eg. [industry page](https://www.commbank.com.au/support/security/latest-scams-and-security-alerts.html), [goverment page](https://www.servicesaustralia.gov.au/active-scams), [another governamt page](https://www.scamwatch.gov.au/), [community page](https://www.virustotal.com/) ) 
+- public facing pages (eg. [industry page](https://www.commbank.com.au/support/security/latest-scams-and-security-alerts.html), [goverment page](https://www.servicesaustralia.gov.au/active-scams), [another governamt page](https://www.scamwatch.gov.au/), [community page](https://www.virustotal.com/), [2022 Top Routinely Exploited Vulnerabilities](https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/2022-top-routinely-exploited-vulnerabilities) ) 
 - blacklists (eg. [Phishing Domain Database (Git)](https://github.com/mitchellkrogza/Phishing.Database))
 - APIs where available
 - hacking as a service (HaaS) portals  (eg. dark web)
