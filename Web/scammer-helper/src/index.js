@@ -11,8 +11,8 @@ root.render(
   <div>
     <MenuExampleHeader />
     <ScamCard />
+    <div className="container"></div>
     <FormExampleFieldControl />
-    <CommentExampleComment />
   </div>
 )
 
