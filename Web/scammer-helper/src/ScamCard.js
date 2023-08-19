@@ -1,7 +1,7 @@
-import React from 'react'
-import { Card } from 'semantic-ui-react'
-import CardItem from './CardItem.jsx'
-import users from './users.js'
+import React from "react";
+import { Card, Form, Message } from "semantic-ui-react";
+import CardItem from "./CardItem.jsx";
+import users from "./users.js";
 
 function ScamCard() {
   return (
@@ -25,7 +25,7 @@ function ScamCard() {
         detail={users[2].detail}
       />
     </Card.Group>
-  )
+  );
 }
 
-export default ScamCard
+export default ScamCard;

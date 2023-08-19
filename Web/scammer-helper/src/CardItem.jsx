@@ -1,6 +1,14 @@
-import React from 'react'
-import { Card, Icon, Image, Header, CardContent } from 'semantic-ui-react'
-import CommentExampleComment from './UserComment'
+import React from "react";
+import {
+  Card,
+  Icon,
+  Image,
+  Header,
+  CardContent,
+  Form,
+  Message,
+} from "semantic-ui-react";
+import CommentExampleComment from "./UserComment";
 
 const CardItem = (props) => {
   return (
@@ -12,10 +20,19 @@ const CardItem = (props) => {
         <Card.Description>{props.detail}</Card.Description>
       </Card.Content>
       <Card.Content>
+        <Form error>
+          <Message
+            error
+            header="It is a scam!"
+            content="Byteme: please change your password immediately!"
+          />
+        </Form>
+      </Card.Content>
+      <Card.Content>
         <CommentExampleComment />
       </Card.Content>
     </Card>
-  )
-}
+  );
+};
 
-export default CardItem
+export default CardItem;
