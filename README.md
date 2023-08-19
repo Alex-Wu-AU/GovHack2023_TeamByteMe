@@ -20,9 +20,8 @@ Our production showcases the use of relatively new input to create a tool that i
 
 * Site Creators - Alex, Ridwan & Andy
 * Content - Andy, Trill & Chale
-* Coding - Alex & Ridwan
 * SMS co-ordinator: Andy
 * Coders: Ridwan, Alex
-* Speciaist Cyber Security Advisor: Trill
-* Mentor contactor: Chale
+* Specialist Cyber Security Advisor: Trill
+* Mentor Contactor: Chale
 * Mentor: Dr Muhammed Reda from Deakin University
