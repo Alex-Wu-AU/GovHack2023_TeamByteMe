@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom/client'
 import './index.css'
 import FormExampleFieldControl from './FormSubmission'
 import MenuExampleHeader from './TopMenu'
-import CustomerCard from './CustomerCard'
+import ScamCard from './ScamCard'
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
   <div>
     <MenuExampleHeader />
-    <CustomerCard />
+    <ScamCard />
     <FormExampleFieldControl />
   </div>
 )

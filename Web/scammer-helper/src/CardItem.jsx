@@ -10,12 +10,6 @@ const CardItem = (props) => {
         <Card.Meta>{props.date}</Card.Meta>
         <Card.Description>{props.detail}</Card.Description>
       </Card.Content>
-      <Card.Content extra>
-        <a>
-          <Icon name="star" />
-          {props.rate}
-        </a>
-      </Card.Content>
     </Card>
   )
 }
