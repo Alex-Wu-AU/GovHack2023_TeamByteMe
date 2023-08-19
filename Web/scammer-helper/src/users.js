@@ -1,18 +1,18 @@
 const users = [
   {
-    name: "A",
+    name: "user A",
     img: "./images/court-scam.png",
     date: "01/01/2020",
     detail: "detail",
   },
   {
-    name: "B",
+    name: "user B",
     img: "./images/mum-scam.png",
     date: "01/01/2020",
     detail: "detail",
   },
   {
-    name: "C",
+    name: "user C",
     img: "./images/netflix-scam.png",
     date: "01/01/2020",
     detail: "detail",

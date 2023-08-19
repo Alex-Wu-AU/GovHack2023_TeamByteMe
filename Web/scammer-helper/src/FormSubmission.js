@@ -25,7 +25,7 @@ class FormExampleFieldControl extends Component {
   render() {
     const { value } = this.state;
     return (
-      <Form>
+      <Form inverted>
         <Form.Group widths="equal">
           <Form.Field
             control={Input}

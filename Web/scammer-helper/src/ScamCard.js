@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, Form, Message } from "semantic-ui-react";
+import { Card, Segment } from "semantic-ui-react";
 import CardItem from "./CardItem.jsx";
 import users from "./users.js";
 
