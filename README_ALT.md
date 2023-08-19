@@ -14,10 +14,6 @@ Alex, Andy, Chale, Ridwan, Trill
 
 
 
-
-
-
-
 ## Our Solution
 
 
@@ -47,11 +43,12 @@ Our tool can be thought of as that nerdy friend or realtive you call and ask 'ma
 
 Behind the web portal, we use spiders to scrape many types of open data:
 
-- public forums (eg. reddit, facebook, twitter, media sites)
+- public forums (eg. reddit, facebook, twitter)
 - public facing pages (eg. [industry page](https://www.commbank.com.au/support/security/latest-scams-and-security-alerts.html), [goverment page](https://www.servicesaustralia.gov.au/active-scams), [another governamt page](https://www.scamwatch.gov.au/), [community page](https://www.virustotal.com/) ) 
 - blacklists (eg. [Phishing Domain Database (Git)](https://github.com/mitchellkrogza/Phishing.Database))
 - APIs where available
 - hacking as a service (HaaS) portals  (eg. dark web)
+- training data (eg. [CERT Insider threat @ Kaggle](https://www.kaggle.com/datasets/nitishabharathi/cert-insider-threat?select=email.csv), [Insider Threat Test @ Canegie Mellon](https://kilthub.cmu.edu/articles/dataset/Insider_Threat_Test_Dataset/12841247/1), [SMS Spam Collection Dataset @ Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/discussion))
 
 
 We then use machine learning and regular expressions to mogrify the scrapings into an
