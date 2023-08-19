@@ -12,7 +12,7 @@ export default class MenuExampleHeader extends Component {
     return (
       <Menu>
         <Menu.Item header>
-          <Image src="./public.images.logo.png" />
+          <Image src="./images/logo.png" size="small" />
         </Menu.Item>
         <Menu.Item
           name="aboutUs"
