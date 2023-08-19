@@ -4,6 +4,7 @@ import './index.css'
 import FormExampleFieldControl from './FormSubmission'
 import MenuExampleHeader from './TopMenu'
 import ScamCard from './ScamCard'
+import CommentExampleComment from './UserComment.js'
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
@@ -11,6 +12,7 @@ root.render(
     <MenuExampleHeader />
     <ScamCard />
     <FormExampleFieldControl />
+    <CommentExampleComment />
   </div>
 )
 
