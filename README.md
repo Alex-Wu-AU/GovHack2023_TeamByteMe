@@ -18,11 +18,11 @@ Our work showcases the use of recent data provided by fellow Australiasn to crea
 
 Our production showcases the use of relatively new input to create a tool that is free for use and easy to use.  Enjoy!
 
-Site Creators - Alex, Ridwan & Andy
-Content - Andy, Trill & Chale
-Coding - Alex & Ridwan
-SMS co-ordinator: Andy
-Coders: Ridwan, Alex
-Speciaist Cyber Security Advisor: Trill
-Mentor contactor: Chale
-Mentor: Dr Muhammed Reda from Deakin University
+* Site Creators - Alex, Ridwan & Andy
+* Content - Andy, Trill & Chale
+* Coding - Alex & Ridwan
+* SMS co-ordinator: Andy
+* Coders: Ridwan, Alex
+* Speciaist Cyber Security Advisor: Trill
+* Mentor contactor: Chale
+* Mentor: Dr Muhammed Reda from Deakin University
