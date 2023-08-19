@@ -10,7 +10,7 @@ export default class MenuExampleHeader extends Component {
     const { activeItem } = this.state;
 
     return (
-      <Menu>
+      <Menu inverted>
         <Menu.Item header>
           <Image src="./images/logo.png" size="small" />
         </Menu.Item>
