@@ -72,7 +72,7 @@ Oweing to a last minute licensing issue with our video production, we have had t
 
 [Voiceover](https://github.com/Alex-Wu-AU/GovHack2023_TeamByteMe/blob/main/Web/scammer-helper/public/voiceover.mp4)
 
-[Video](https://www.youtube.com/watch?v=b2SQ9Y1E9n4)
+[Video](https://www.youtube.com/watch?v=A6thPK6Rooo)
 
 [Lo-Fi version with voiceover](https://video.deakin.edu.au/media/t/1_9cmcxhho)
 
