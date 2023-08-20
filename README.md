@@ -68,6 +68,10 @@ We then use machine learning classifiers and regular expressions to identify and
 
 ## Video
 
-[Youtube/Powtoon Link]()
+Oweing to a last minute licensing issue with our video production, we have had to provide the video and voice over separately...
+
+[Voiceover](...)
+
+[Video](https://www.youtube.com/watch?v=b2SQ9Y1E9n4)
 
 
