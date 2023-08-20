@@ -55,6 +55,8 @@ Behind the web portal, we use spiders to scrape many types of open data:
 - training data (eg. [CERT Insider threat @ Kaggle](https://www.kaggle.com/datasets/nitishabharathi/cert-insider-threat?select=email.csv), [Insider Threat Test @ Canegie Mellon](https://kilthub.cmu.edu/articles/dataset/Insider_Threat_Test_Dataset/12841247/1), [SMS Spam Collection Dataset @ Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/discussion))
 
 
+<img src='./Web/scammer-helper/public/images/jupyter.png' width='80%'>
+
 We then use machine learning classifiers and regular expressions to identify and then mogrify the scrapings into an
  aggreagated and fresh database of the various expolits that users may fall victim to - wherever possible, graphical instances of the exploit seen inn the wild are tagged so that by simply entering the text of the SMS or email they are concerned about or the URL of a suspicious link, they will get a liklihood rating of 'scaminess' as well as a graphical instances of the exploit that are close matches which we hope will provide instant recognition in a way that transcends language, literacy and technical knowledge barriers - remembering that these are exactly the weaknesses that hackers target in their exploits.
 
