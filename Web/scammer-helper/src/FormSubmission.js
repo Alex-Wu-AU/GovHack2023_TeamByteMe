@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 import {
   Button,
   Checkbox,
@@ -8,24 +8,24 @@ import {
   Select,
   TextArea,
   Message,
-} from 'semantic-ui-react'
-import 'semantic-ui-css/semantic.min.css'
+} from "semantic-ui-react";
+import "semantic-ui-css/semantic.min.css";
 
 const options = [
-  { key: 'm', text: 'Male', value: 'male' },
-  { key: 'f', text: 'Female', value: 'female' },
-  { key: 'o', text: 'Other', value: 'other' },
-]
+  { key: "m", text: "Male", value: "male" },
+  { key: "f", text: "Female", value: "female" },
+  { key: "o", text: "Other", value: "other" },
+];
 
 class FormExampleFieldControl extends Component {
-  state = {}
+  state = {};
 
-  handleChange = (e, { value }) => this.setState({ value })
+  handleChange = (e, { value }) => this.setState({ value });
 
   render() {
-    const { value } = this.state
+    const { value } = this.state;
     return (
-      <Form success>
+      <Form inverted>
         <Form.Group widths="equal">
           <Form.Field
             control={Input}
@@ -50,21 +50,21 @@ class FormExampleFieldControl extends Component {
             control={Radio}
             label="Phone"
             value="1"
-            checked={value === '1'}
+            checked={value === "1"}
             onChange={this.handleChange}
           />
           <Form.Field
             control={Radio}
             label="Text"
             value="2"
-            checked={value === '2'}
+            checked={value === "2"}
             onChange={this.handleChange}
           />
           <Form.Field
             control={Radio}
             label="Email"
             value="3"
-            checked={value === '3'}
+            checked={value === "3"}
             onChange={this.handleChange}
           />
         </Form.Group>
@@ -77,15 +77,10 @@ class FormExampleFieldControl extends Component {
           control={Checkbox}
           label="I agree to the Terms and Conditions"
         />
-        <Message
-          success
-          header="Form Completed"
-          content="Thank you! Your information has been submitted successfully."
-        />
         <Form.Field control={Button}>Submit</Form.Field>
       </Form>
-    )
+    );
   }
 }
 
-export default FormExampleFieldControl
+export default FormExampleFieldControl;
