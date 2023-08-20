@@ -62,6 +62,8 @@ Behind the web portal, we use spiders to scrape many types of open data:
 We then use machine learning classifiers and regular expressions to identify and then mogrify the scrapings into an
  aggreagated and fresh database of the various expolits that users may fall victim to - wherever possible, graphical instances of the exploit seen inn the wild are tagged so that by simply entering the text of the SMS or email they are concerned about or the URL of a suspicious link, they will get a liklihood rating of 'scaminess' as well as a graphical instances of the exploit that are close matches which we hope will provide instant recognition in a way that transcends language, literacy and technical knowledge barriers - remembering that these are exactly the weaknesses that hackers target in their exploits.
 
+[Code](https://github.com/Alex-Wu-AU/GovHack2023_TeamByteMe/tree/main/ML%20Code)
+
 
 
 ## Video
