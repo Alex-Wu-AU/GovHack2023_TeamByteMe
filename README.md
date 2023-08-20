@@ -1,4 +1,6 @@
-# Project repository for GovHack 2023
+# Project repository for GovHack 2023 
+
+<img src='./Web/scammer-helper/public/images/byteme-black.png' width='10%'>
 
 ## Challenge : Staying one step ahead
 
@@ -14,7 +16,7 @@ Alex, Andy, Chale, Ridwan, Trill
 
 
 
-## Our Solution
+## Our Solution : Scam Croc
 
 <img src='./Web/scammer-helper/public/images/scam_croc.png' width='50%'>
 
