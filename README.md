@@ -74,4 +74,6 @@ Oweing to a last minute licensing issue with our video production, we have had t
 
 [Video](https://www.youtube.com/watch?v=b2SQ9Y1E9n4)
 
+[Lo-Fi version with voiceover](https://github.com/Alex-Wu-AU/GovHack2023_TeamByteMe/blob/main/Web/scammer-helper/public/IMG_0107.mov)
+
 
